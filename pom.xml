@@ -131,5 +131,11 @@
             <artifactId>rest-assured</artifactId>
             <version>3.0.7</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.squareup.okhttp/okhttp-apache -->
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>3.10.0</version>
+        </dependency>
     </dependencies>
 </project>
