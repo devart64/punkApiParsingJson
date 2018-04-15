@@ -1,9 +1,9 @@
-package fr.wcs.punkApi.Entity.BeerEntity;
+package fr.wcs.punkApi.Entities.BeerEntity;
 
-import fr.wcs.punkApi.Entity.Boil_Volume;
-import fr.wcs.punkApi.Entity.IngredientEntity.Ingredient;
-import fr.wcs.punkApi.Entity.Method;
-import fr.wcs.punkApi.Entity.Volume;
+import fr.wcs.punkApi.Entities.Boil_Volume;
+import fr.wcs.punkApi.Entities.IngredientEntity.Ingredient;
+import fr.wcs.punkApi.Entities.Method;
+import fr.wcs.punkApi.Entities.Volume;
 
 import java.util.ArrayList;
 import java.util.Date;

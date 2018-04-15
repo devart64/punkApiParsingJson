@@ -1,20 +1,20 @@
-package fr.wcs.punkApi.Entity;
+package fr.wcs.punkApi.Entities;
 
-public class Volume {
-    private int value;
+public class Boil_Volume {
+    private float value;
     private String unit;
 
-    public Volume(int value, String unit) {
+    public Boil_Volume(float value, String unit) {
         this.value = value;
         this.unit = unit;
     }
 
 
-    public int getValue() {
+    public float getValue() {
         return value;
     }
 
-    public void setValue(int value) {
+    public void setValue(float value) {
         this.value = value;
     }
 

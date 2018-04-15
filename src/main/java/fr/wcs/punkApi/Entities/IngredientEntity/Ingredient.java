@@ -1,4 +1,4 @@
-package fr.wcs.punkApi.Entity.IngredientEntity;
+package fr.wcs.punkApi.Entities.IngredientEntity;
 
 public class Ingredient {
     private String typeOfIngredient; // type will be "malt" or "hops"
