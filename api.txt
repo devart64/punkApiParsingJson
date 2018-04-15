@@ -1,0 +1,19 @@
+Voici un petit sujet de réalisation d'un API Java s'interfaçant avec une API Rest JSON autour du thème de la bière, pour prendre en main la notion d'API REST/Json et de modélisation Objet:
+
+Punk API interface (https://punkapi.com/documentation/v2)
+
+Fournir un ensemble de classes et méthodes permettant de s'interfacer avec l'API PunkAPI et permettant de :
+-récupérer la liste de toutes les bières
+-récupérer la liste des bières en fonction d'un pattern de recherche dans le nom
+-récupérer une bière en fonction de son id
+-récupérer les bières contenant moins (ou plus) d'une certaine quantité d'un ingrédient.
+Par exemple, récupérer toutes les bières contenant moins de 6 unités de malte "Extra pale"
+
+Les notions de Bière et Ingrédient doivent être présentes pour utiliser l'api.
+
+Mettre au point le jeu de test permettant de valider le bon fonctionnement de ton api
+
+Ressources:
+-https://punkapi.com/documentation/v2
+-https://www.journaldev.com/2315/java-json-example
+-https://stackoverflow.com/questions/35565702/how-to-read-a-json-object-from-a-url-with-jsonreader
